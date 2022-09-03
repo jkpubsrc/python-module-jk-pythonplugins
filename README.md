@@ -9,7 +9,7 @@ This python module provides classes to implement a simple plugin infrastructure 
 Information about this module can be found here:
 
 * [github.org](https://github.com/jkpubsrc/python-module-jk-pythonplugins)
-* [pypi.python.org](https://pypi.python.org/pypi/jk_pythonplugins)
+* [pypi.org](https://pypi.org/project/jk_pythonplugins/)
 
 How to use this module
 ----------------------
